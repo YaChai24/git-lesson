@@ -1,1 +1,1 @@
-alert('Hello from shogun.js')
+alert('Hello from shogun.js!!!')
