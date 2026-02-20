@@ -1,4 +1,5 @@
 import { a } from './incubator.js'
+import { link } from './shogun.js'
 
 const num = 123
 
@@ -10,3 +11,4 @@ console.log(a)
 console.log(num)
 console.log(website)
 console.log(text)
+console.log(link)
